@@ -1,0 +1,5 @@
+
+Installation simple => copier / coller l'intégralitée du contenu de l'archive, excepté ce "Lisez-moi", dans :
+
+
+                ....../HiRezGames/smite/Binaries/Win32
